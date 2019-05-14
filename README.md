@@ -1,6 +1,8 @@
 # Dasar OpenCV
 ````
 python -m pip install opencv-python
+pip install matplotlib
+pip install numpy
 ````
 ````
 import cv2
